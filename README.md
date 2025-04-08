@@ -5,7 +5,7 @@ This project contains a collection of basic and intermediate-level operations on
 ## 🔧 Operations Implemented
 
 - ✅ Transpose of a Matrix
-- ✅ Inverse of a Matrix (using NumPy)
+- ✅ Inverse of a Matrix
 - ✅ Sum of All Elements in a Matrix
 - ✅ Product of All Elements
 - ✅ Removing Negative Values from a List or Matrix
@@ -24,7 +24,6 @@ You can run the notebook in Google Colab or Jupyter Notebook. Each section is we
 ## 📚 Requirements
 
 - Python 3.x
-- NumPy (for matrix inverse and related operations)
 
 ## 🚀 How to Run
 
